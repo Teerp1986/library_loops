@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tonika Price\\Source\\Repos\\library_loops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FBAAFE-E94B-4E3B-B4B6-36C00A8501B8}|library_loops\\library_loops.pyproj|C:\\Users\\Tonika Price\\Source\\Repos\\library_loops\\library_loops\\library_loops.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43FBAAFE-E94B-4E3B-B4B6-36C00A8501B8}|library_loops\\library_loops.pyproj|solutionrelative:library_loops\\library_loops.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "library_loops.py",
+              "DocumentMoniker": "C:\\Users\\Tonika Price\\Source\\Repos\\library_loops\\library_loops\\library_loops.py",
+              "RelativeDocumentMoniker": "library_loops\\library_loops.py",
+              "ToolTip": "C:\\Users\\Tonika Price\\Source\\Repos\\library_loops\\library_loops\\library_loops.py",
+              "RelativeToolTip": "library_loops\\library_loops.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-29T01:39:20.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

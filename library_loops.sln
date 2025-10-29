@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "library_loops", "library_loops\library_loops.pyproj", "{43FBAAFE-E94B-4E3B-B4B6-36C00A8501B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43FBAAFE-E94B-4E3B-B4B6-36C00A8501B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FBAAFE-E94B-4E3B-B4B6-36C00A8501B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAC5FE1A-45CD-4A96-9E44-F62B2D37B3B1}
+	EndGlobalSection
+EndGlobal
